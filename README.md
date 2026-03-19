@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/Tosca-2088FF?style=for-the-badge&logo=testng&logoColor=white" alt="tosca"/>
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
 <</div>
