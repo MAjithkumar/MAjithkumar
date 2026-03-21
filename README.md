@@ -1,36 +1,29 @@
 # **<div align="center">Ajithkumar Murugaraj</div>**  
-  
 
 ### <div align="center">Automation Architect</div>  
-  
 
-🔭 I’m currently working on Lead Quality Engineer  
+🔭 I’m currently working as a Lead Quality Engineer  
 
 💼 9+ YOE
 
-🌱 I’m currently learning AI, LLM  
+🌱 I’m currently learning Vision AI, GitHub Copilot, LLM, MCP  
 
 🎓 Certifications: ISTQB, Guidewire Certified, Tricentis Tosca
 
 📦 **30** repositories 
   
-
 <br/>  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAjithkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAjithkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
-
 <table>
 <tr>
 <td valign="top" width="33%">
-
 <h3 align="center">🧪 Testing & QA</h3>
 <br/>
 <div align="center">
@@ -43,7 +36,6 @@
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
 <</div>
-
 </td>
 <td valign="top" width="33%">
 
@@ -57,7 +49,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
-
 </td>
 <td valign="top" width="33%">
   
@@ -74,7 +65,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 <img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="seleniumgrid"/>
 </div>
-
 </td>
 </tr>
 </table>
@@ -91,5 +81,4 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 <br/>  
