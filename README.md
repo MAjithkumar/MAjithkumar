@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Tosca-2088FF?style=for-the-badge&logo=testng&logoColor=white" alt="tosca"/>
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
-<</div>
+</div>
 </td>
 <td valign="top" width="33%">
 
